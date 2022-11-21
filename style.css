@@ -1,0 +1,38 @@
+body
+{
+  color: white;
+  background:linear-gradient(#700627 0%, #c50bba 50%, #200670 100%)
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 4px dotted black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color: black;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size: 30  px;
+  font-style: italic;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  border-radius: 10px;
+  letter-spacing: 10px;
+  background-color:red;
+  color:yellow;
+}
+
